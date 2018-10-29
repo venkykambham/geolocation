@@ -50,10 +50,10 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1540764088276,
-            "changeTime": 1540764088276,
+            "modifiedTime": 1540763780400,
+            "changeTime": 1540763780400,
             "isWorkspace": false,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 201,
             "modifiedTime": 1540763898476,
             "changeTime": 1540763898476,
-            "contentHash": "b653a651d8e3ffd78bebd800ab00f8e46a0b360f",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "b653a651d8e3ffd78bebd800ab00f8e46a0b360f"
         }
     ],
     [
@@ -515,14 +515,14 @@
     [
         "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1540763402463,
+            "changeTime": 1540763402463,
+            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
             "isMetadataFile": false,
-            "size": 544,
-            "modifiedTime": 1540764184599,
-            "changeTime": 1540764184599,
-            "contentHash": "bc46758d87618418dad7bbd60d6b3248d9628462"
+            "state": "u"
         }
     ],
     [
@@ -580,14 +580,14 @@
     [
         "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1540763438013,
+            "changeTime": 1540763438013,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
             "isMetadataFile": false,
-            "size": 395,
-            "modifiedTime": 1540764224078,
-            "changeTime": 1540764224078,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+            "state": "u"
         }
     ],
     [
@@ -944,27 +944,27 @@
     [
         "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
         {
+            "state": "u",
             "sourcePath": "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540763780417,
             "changeTime": 1540763780417,
-            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
         }
     ],
     [
         "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
         {
+            "state": "u",
             "sourcePath": "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1540763780417,
             "changeTime": 1540763780417,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
         }
     ],
     [
@@ -974,62 +974,62 @@
             "sourcePath": "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 335,
-            "modifiedTime": 1540764256284,
-            "changeTime": 1540764256284,
-            "contentHash": "e792589660c49d29ca785ee75d4b8429739a88fe"
+            "size": 256,
+            "modifiedTime": 1540763822531,
+            "changeTime": 1540763822531,
+            "contentHash": "f9b6c3794ae4ae87a33740d78e7022444aea9234"
         }
     ],
     [
         "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1540763780406,
             "changeTime": 1540763780406,
-            "contentHash": "c36ecc6bbe85bd9081a8c38d8427f7e8bbabeec9",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "c36ecc6bbe85bd9081a8c38d8427f7e8bbabeec9"
         }
     ],
     [
         "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1540763881155,
             "changeTime": 1540763881155,
-            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1"
         }
     ],
     [
         "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
         {
+            "state": "u",
             "sourcePath": "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1540763780418,
             "changeTime": 1540763780418,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
         }
     ],
     [
         "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
         {
+            "state": "u",
             "sourcePath": "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1540763780415,
             "changeTime": 1540763780415,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
         }
     ],
     [
@@ -1039,75 +1039,36 @@
             "sourcePath": "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 830,
-            "modifiedTime": 1540764314582,
-            "changeTime": 1540764314582,
-            "contentHash": "22f2320dc148f0e43c67b8f5d2dc75933cb07c22"
+            "size": 387,
+            "modifiedTime": 1540763848693,
+            "changeTime": 1540763848693,
+            "contentHash": "d9c003312310adfc8ac80ff9005aba9cc7d51056"
         }
     ],
     [
         "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
         {
+            "state": "u",
             "sourcePath": "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1540763780410,
             "changeTime": 1540763780410,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
         {
+            "state": "u",
             "sourcePath": "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1540763780413,
             "changeTime": 1540763780413,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1540764088296,
-            "changeTime": 1540764088296,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 100,
-            "modifiedTime": 1540764112797,
-            "changeTime": 1540764112797,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
-        }
-    ],
-    [
-        "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "B:\\VSCode\\LightningComponentSpecialist\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1540764088301,
-            "changeTime": 1540764088301,
-            "contentHash": "4b19d3ff07a5d4014613c9c30fffb326546e8c50"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
